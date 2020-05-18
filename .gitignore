@@ -1,4 +1,7 @@
 # Data
-/data/*.txt
-/data/*.pkl
-/data/*.gz
+*.txt
+*.pkl
+*.gz
+
+# Model
+*.pt

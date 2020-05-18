@@ -1,3 +1,6 @@
+# Runtime
+*/__pycache__/*
+
 # Data
 *.txt
 *.pkl
